@@ -1,1 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 
+.cabecalho {
+    background-color: rgb(233, 150, 226);
+    color: aquamarine;
+    display: flex;
+    justify-content: space-around;
+}
