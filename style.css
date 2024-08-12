@@ -5,6 +5,10 @@
     padding: 0;
 }
 
+body {
+    font-family: "Edu VIC WA NT Beginner", cursive;
+}
+
 .cabecalho {
     background-color: rgb(233, 150, 226);
     color: aquamarine;
@@ -15,7 +19,9 @@
 }
 
 .cabecalho-imagem {
-    width: 100%;
+    width: 100px ;
+    height: 90px ;
+    border-radius: 50%.;
 }
 
 .cabecalho-lista-item {
