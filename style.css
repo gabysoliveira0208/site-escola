@@ -86,5 +86,8 @@ padding: 24px 0;
 }
 
 .rodape-icone {
-
+display: flex;
+width: 20%;
+height: 12px;
+padding: 12px 0;
 }
